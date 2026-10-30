@@ -23,7 +23,7 @@ A Flutter app for exploring the planets of the solar system, built for the **Rou
 
 ## Demo
 
-[Watch the screen recording](demo.mp4)
+[Watch the screen recording](https://drive.google.com/file/d/1pzf3qb5AAg7gGvOI7LofcaU-tFimn5xH/view?usp=sharing)
 
 ## Tech Stack
 
